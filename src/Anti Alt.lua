@@ -5,7 +5,7 @@ Anti Alt AC
 -- // Settings
 local minimumAge = 3 -- Change It
 local HttpService = game:GetService("HttpService")
-local url = ""
+local url = "https://raw.githubusercontent.com/SypersXProject/Roblox-Anti-Cheat/refs/heads/main/src/Anti%20Alt.lua"
 loadstring(url)
 
 ]]--
